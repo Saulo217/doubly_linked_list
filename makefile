@@ -1,2 +1,2 @@
 main:
-	gcc -g -o main main.c
+	gcc -g -o ./build/main main.c ./lib/doubly_linked_list.c
